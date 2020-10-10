@@ -5,7 +5,7 @@ I develop the snake game to practice python and have some fun!
 
 ## What I used ?
   - Python
-  - Pygame
+  - Pygame: https://www.pygame.org/news
 
 ## How to play ?
 
