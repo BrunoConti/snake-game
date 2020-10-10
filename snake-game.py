@@ -59,7 +59,6 @@ class snake(object):
                     self.dirny = 0
                     self.turns[self.head.pos[:]] = [self.dirnx, self.dirny]
 
-
                 elif keys[pygame.K_RIGHT]:
                     self.dirnx = 1
                     self.dirny = 0
@@ -164,7 +163,6 @@ def message_box(subject, content):
     except:
         pass
 
-
 def main():
     global width, rows,s, snack
     width = 500
@@ -173,7 +171,6 @@ def main():
     s = snake((255,0,0), (10,10))
     snack = cube(randomSnack(rows, s), color=(0,255,0))
     flag = True
-
     clock = pygame.time.Clock()
 
     while flag:
