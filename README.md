@@ -8,5 +8,4 @@ I develop the snake game to practice python and have some fun!
   - Pygame: https://www.pygame.org/news
 
 ## How to play ?
-
 Just run it and have fun!
