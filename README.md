@@ -1,7 +1,6 @@
 # 🐍 The SNAKE GAME 🐍
 
-## Why I did it ?
-I develop the snake game to practice python and have some fun!
+Practicing python and having some fun!
 
 ## What I used ?
   - Python: https://www.python.org/
